@@ -6,4 +6,5 @@
 * 原论文地址：https://arxiv.org/abs/1505.04597
 * UNet的架构：
 
-![UNet](Unet.png)
+![UNet](/Unet.png)
+
